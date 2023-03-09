@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "Test",
+        "text": "This is a test note.",
+        "id": "54eda157-ca79-446c-8a5b-f82de7fb3121"
+    },
+    {
+        "title": "Test 2",
+        "text": "Just to make sure the buttons are working. ",
+        "id": "f895919e-b34d-448e-98bf-dae6c31072be"
+    }
+]
